@@ -1,0 +1,2 @@
+# Mxshop_fastapi
+通过fastapi替代django业务接口实现更大的并发
